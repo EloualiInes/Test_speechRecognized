@@ -1,0 +1,15 @@
+# Dossiers et fichiers généralement ignorés dans un projet JavaScript
+
+# Dossiers
+front/
+node_modules/
+dist/
+coverage/
+.cache/
+.build/
+logs/
+
+# Fichiers
+.env
+*.log
+*.db
